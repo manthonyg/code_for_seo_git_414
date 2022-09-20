@@ -1,2 +1,3 @@
-# code_for_seo_git_414
-# code_for_seo_git_414
+# Code for SEO
+## An assignment to add meta tags to include SEO and instructional meta tags to preexisting markup.
+
